@@ -1,1 +1,2 @@
-
+config:
+  info: "main branch springcloud-config/configdev.yml 版本version:1"
